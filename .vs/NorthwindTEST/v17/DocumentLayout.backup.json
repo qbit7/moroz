@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\NorthwindTEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1771341F-8894-449C-A811-9BB8D18FBA18}|NorthwindTEST\\NorthwindTEST.csproj|c:\\users\\pc\\source\\repos\\northwindtest\\northwindtest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1771341F-8894-449C-A811-9BB8D18FBA18}|NorthwindTEST\\NorthwindTEST.csproj|solutionrelative:northwindtest\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1771341F-8894-449C-A811-9BB8D18FBA18}|NorthwindTEST\\NorthwindTEST.csproj|C:\\Users\\PC\\source\\repos\\NorthwindTEST\\northwindtest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1771341F-8894-449C-A811-9BB8D18FBA18}|NorthwindTEST\\NorthwindTEST.csproj|solutionrelative:northwindtest\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1771341F-8894-449C-A811-9BB8D18FBA18}|NorthwindTEST\\NorthwindTEST.csproj|C:\\Users\\PC\\source\\repos\\NorthwindTEST\\northwindtest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1771341F-8894-449C-A811-9BB8D18FBA18}|NorthwindTEST\\NorthwindTEST.csproj|solutionrelative:northwindtest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1771341F-8894-449C-A811-9BB8D18FBA18}|NorthwindTEST\\NorthwindTEST.csproj|C:\\Users\\PC\\source\\repos\\NorthwindTEST\\northwindtest\\nw.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{1771341F-8894-449C-A811-9BB8D18FBA18}|NorthwindTEST\\NorthwindTEST.csproj|solutionrelative:northwindtest\\nw.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\NorthwindTEST\\NorthwindTEST\\App.config",
+              "RelativeDocumentMoniker": "NorthwindTEST\\App.config",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\NorthwindTEST\\NorthwindTEST\\App.config",
+              "RelativeToolTip": "NorthwindTEST\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-11T05:49:36.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\NorthwindTEST\\NorthwindTEST\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NorthwindTEST\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\NorthwindTEST\\NorthwindTEST\\MainWindow.xaml.cs",
+              "RelativeToolTip": "NorthwindTEST\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAwwBsBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T12:43:06.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\NorthwindTEST\\NorthwindTEST\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NorthwindTEST\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\NorthwindTEST\\NorthwindTEST\\MainWindow.xaml",
+              "RelativeToolTip": "NorthwindTEST\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-10T12:42:22.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NW.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\NorthwindTEST\\NorthwindTEST\\NW.edmx",
+              "RelativeDocumentMoniker": "NorthwindTEST\\NW.edmx",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\NorthwindTEST\\NorthwindTEST\\NW.edmx [Diagram1]",
+              "RelativeToolTip": "NorthwindTEST\\NW.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-03-10T12:40:32.389Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
